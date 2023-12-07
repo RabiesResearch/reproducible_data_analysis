@@ -15,14 +15,13 @@ While repository structures can vary depending on their specific purposes and re
 - **Scripts Directory:** Holds all the code used for data processing and analysis. Scripts are named and organized logically for ease of navigation.
 - **Figures/Output:** Features outputs such as tables, figures, and any other relevant results. This area is crucial for reviewing and presenting the outcomes of the analysis.
 
+The figure below illustrates this   
+<img src="https://github.com/RabiesResearch/what_should_a_repo_look_like/blob/main/figures/repo_structure.png)" width="400" height="400" />
+
+
 ## Accessing the Presentation
-For a comprehensive understanding of the concepts and discussions from the Reproducible Data Analysis session, please refer to the slides presented by Elaine and Ellie. They are accessible through this link: [Reproducible Data Analysis by Ed](https://www.mentimeter.com/app/presentation/alyfyzphahmeghsh8rekacjr7h8qsimy/zeikuwv5fszx).
+For a comprehensive understanding, please refer to the slides accessible through this link: [Reproducible Data Analysis by Ed](https://www.mentimeter.com/app/presentation/alyfyzphahmeghsh8rekacjr7h8qsimy/zeikuwv5fszx).
 
 ## Conclusion
-This repository is a step toward fostering a culture of reproducibility in our data analysis practices. By following these structured guidelines, we aim to achieve higher standards of clarity, efficiency, and reliability in our research and analytical endeavors.
-
-
-
-The figure below illustrates this   
-<img src="[image-url](https://github.com/RabiesResearch/what_should_a_repo_look_like/blob/main/figures/repo_structure.png)" width="200" height="200" />
+This repository is a step toward fostering a culture of reproducibility in our data analysis practices. By following these structured guidelines, we aim to achieve higher standards of clarity, efficiency, and reliability in our research.
 

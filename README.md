@@ -16,7 +16,7 @@ While repository structures can vary depending on their specific purposes and re
 - **Figures/Output:** Features outputs such as tables, figures, and any other relevant results. This area is crucial for reviewing and presenting the outcomes of the analysis.
 
 The figure below illustrates this   
-<img src="https://github.com/RabiesResearch/what_should_a_repo_look_like/blob/main/figures/repo_structure.png)" width="400" height="400" />
+<img src="https://github.com/RabiesResearch/what_should_a_repo_look_like/blob/main/figures/repo_structure.png" width="400" height="400" />
 
 
 ## Accessing the Presentation

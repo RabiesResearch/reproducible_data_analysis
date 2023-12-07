@@ -1,5 +1,3 @@
-# what_should_a_repo_look_like
-
 # Reproducible Data Analysis: Standard Repository Structure
 
 ## Introduction

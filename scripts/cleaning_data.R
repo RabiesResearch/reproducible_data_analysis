@@ -1,5 +1,5 @@
 # Load necessary library
-library(dplyr)
+library(tidyverse)
 
 # Read the raw data
 raw_data <- read.csv('./raw_data/raw_data.csv')

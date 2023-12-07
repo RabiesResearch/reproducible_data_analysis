@@ -26,4 +26,4 @@ This repository is a step toward fostering a culture of reproducibility in our d
 
 
 While the structures of repos may vary based on function, this will hopefully act as guide on how we can organise our work towards reproducible data analysis. The fihure below illustrates this   
-![](https://github.com/marthaluka/ea_framework/blob/main/figures/framework2.png)
+![](https://github.com/RabiesResearch/what_should_a_repo_look_like/blob/main/figures/repo_structure.png)
